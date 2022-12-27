@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: bisque;
+}
+
+.Container-one {
+    background-color: rgb(29, 158, 197);
+    color: rgb(2, 2, 2);
+    margin: 0 0 0 0;
+}
+
+h1 {
+    margin: 0;
+    color: rgb(11, 11, 11);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 800 px;
+}
